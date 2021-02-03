@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/laravel":{"mount_options":["dmode=777","fmode=666","uid=1000","gid=1000"],"guestpath":"/home/vagrant/laravel","hostpath":"C:/Users/Admin/Documents/Cybrary/ubuntu/shared","disabled":false,"__vagrantfile":true}}}
